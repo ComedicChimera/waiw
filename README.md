@@ -316,7 +316,7 @@ Below is a table of all the operators in *waiw* along with their functions.
 | `$` | push the value before it onto the stack |
 | `_` | store the top value on the stack into the value accumulator |
 | `:` | pop the top value on the stack into the value accumulator |
-| `|` | reverse the stack |
+| `\|` | reverse the stack |
 | `+` | add the values before and after it as integers |
 | `-` | subtract the values before and after it as integers |
 | `*` | multiply the values before and after it as integers |
